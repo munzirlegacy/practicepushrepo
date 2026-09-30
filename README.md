@@ -40,16 +40,10 @@ practicepushrepo/
 2. Open `index.html` in your browser.
 3. You can also run it with a local static server if preferred.
 
-Example:
-
-```bash
-python -m http.server 8000
-```
-
-Then visit:
+ or visit:
 
 ```text
-http://localhost:8000
+https://munzirlegacy.github.io/practicepushrepo/
 ```
 
 ## Preview
